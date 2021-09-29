@@ -1,5 +1,5 @@
 
-docker-compose -f /mnt/remoteAsterisk/AGI/scripts/odbcExample/docker-compose.yml up --build -d
+docker-compose  up --build -d
 
 docker exec -it main sh
 
