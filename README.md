@@ -1,4 +1,9 @@
 # odbcExample
 
 install with this command:
-docker-compose  up --build -d
+<br>
+git clone https://github.com/showf68/odbcExample.git
+<br>
+cd odbcExample
+<br>
+docker-compose up --build -d
